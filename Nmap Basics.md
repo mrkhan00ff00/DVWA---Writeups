@@ -12,4 +12,5 @@ of network mapping and the importance of identifying potential attack surfaces i
 #Nmap #CyberSecurity #EthicalHacking #NetworkSecurity #PenTesting #InformationSecurity #KaliLinux #Reconnaissance #PortScanning
 #Learning #SecurityTesting #Networking
 <img width="871" height="592" alt="nmap" src="https://github.com/user-attachments/assets/4f051b21-8eea-4753-83ab-dd5e98242413" />
+<img width="862" height="588" alt="nmap 2" src="https://github.com/user-attachments/assets/2af6693e-7b2a-4509-a48b-5f74360e4e7b" />
 
