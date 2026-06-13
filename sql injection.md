@@ -34,13 +34,7 @@ During the exercise, I tested different SQL payloads to observe how user-supplie
 <img width="905" height="388" alt="Screenshot 2026-06-13 at 12-54-39 Vulnerability SQL Injection Damn Vulnerable Web Application (DVWA)" src="https://github.com/user-attachments/assets/61993ddf-58a8-4430-8e24-08816d9d9cd0" />
 
 
-
-
-
-###Sql injection high secrurity###
-
-
-
+SQL Injection (High Security) – DVWA
 
 
 <img width="897" height="470" alt="Screenshot 2026-06-13 at 14-29-41 Vulnerability SQL Injection Damn Vulnerable Web Application (DVWA)" src="https://github.com/user-attachments/assets/d581ffaf-5f8d-46e8-9f01-a837c6cafae7" />
