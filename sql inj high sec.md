@@ -1,3 +1,0 @@
-<img width="897" height="470" alt="Screenshot 2026-06-13 at 14-29-41 Vulnerability SQL Injection Damn Vulnerable Web Application (DVWA)" src="https://github.com/user-attachments/assets/d581ffaf-5f8d-46e8-9f01-a837c6cafae7" />
-<img width="519" height="570" alt="Screenshot From 2026-06-13 14-31-05" src="https://github.com/user-attachments/assets/771c7549-cc0c-4b9b-bdb0-f99dc5543b2e" />
-<img width="893" height="504" alt="Screenshot 2026-06-13 at 14-31-25 Vulnerability SQL Injection Damn Vulnerable Web Application (DVWA)" src="https://github.com/user-attachments/assets/e1edd510-623d-4a67-9373-04c245b59caa" />
