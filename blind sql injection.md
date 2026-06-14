@@ -34,12 +34,12 @@ automated scripts to systematically rebuild entire databases character by charac
 
 #CyberSecurity` `#WebSecurity` `#AppSec` `#SQLInjection` `#BlindSQLi` `#EthicalHacking` `#OWASPTop10`
 
-###  Commands  ###
+### COMMANDS AND  RESULTS  ###
 
 <img width="665" height="128" alt="Screenshot From 2026-06-14 11-12-34" src="https://github.com/user-attachments/assets/9f90f84a-7d35-4420-a0c4-024a173eb632" />
 <img width="665" height="128" alt="Screenshot From 2026-06-14 11-12-46" src="https://github.com/user-attachments/assets/4c5bd3f3-3c7c-4cb2-80d1-b4e12355caf9" />
 
-###  RESULTS  ##
+###   COMMANDS AND RESULTS  ##
 <img width="666" height="267" alt="Screenshot From 2026-06-14 10-51-50" src="https://github.com/user-attachments/assets/a6b23a15-0344-4a92-8648-9b30033c282a" />
 <img width="654" height="270" alt="Screenshot From 2026-06-14 11-19-43" src="https://github.com/user-attachments/assets/20f544d4-efeb-4ea2-ac21-19cdb971ea13" />
 <img width="654" height="270" alt="Screenshot From 2026-06-14 11-19-56" src="https://github.com/user-attachments/assets/cbc2292b-beff-450b-9b28-d10b1a7a2d03" />
